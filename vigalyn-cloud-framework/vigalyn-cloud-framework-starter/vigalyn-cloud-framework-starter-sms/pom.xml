@@ -10,10 +10,4 @@
   <artifactId>vigalyn-cloud-framework-starter-sms</artifactId>
   <name>vigalyn-cloud-framework-starter-sms</name>
   <url>http://maven.apache.org</url>
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-  <dependencies>
-    
-  </dependencies>
 </project>
