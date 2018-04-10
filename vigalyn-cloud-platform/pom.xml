@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.vigalyn.cloud</groupId>
+    <artifactId>vigalyn-cloud</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>vigalyn-cloud-platform</artifactId>
+  <packaging>pom</packaging>
+  <name>vigalyn-cloud-platform</name>
+  <url>http://maven.apache.org</url>
+
+  <modules>
+    	<module>vigalyn-cloud-platform-common</module>
+      	<module>vigalyn-cloud-platform-message</module>
+		 <module>vigalyn-cloud-platform-notification</module>
+ 	  	 <module>vigalyn-cloud-platform-uc</module>
+	  	 <module>vigalyn-cloud-platform-upm</module>
+   		<module>vigalyn-cloud-platform-organization</module>
+  </modules>
+</project>

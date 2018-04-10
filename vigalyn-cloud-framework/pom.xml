@@ -13,12 +13,6 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-  <dependencies>
-
-  </dependencies>
   <modules>
     <module>vigalyn-cloud-framework-util</module>
     <module>vigalyn-cloud-framework-core</module>
@@ -28,6 +22,6 @@
     <module>vigalyn-cloud-framework-sms</module>
     <module>vigalyn-cloud-framework-mail</module>
     <module>vigalyn-cloud-framework-storage</module>
-<module>vigalyn-cloud-framework-starter</module>
+	<module>vigalyn-cloud-framework-starter</module>
   </modules>
 </project>

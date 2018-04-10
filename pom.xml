@@ -21,7 +21,28 @@
   </properties>
 	<modules>
 		<module>vigalyn-cloud-config</module>
-    <module>vigalyn-cloud-registry</module>
+    	<module>vigalyn-cloud-registry</module>
+   		 <module>vigalyn-cloud-service</module>
+    	<module>vigalyn-cloud-platform</module>
+    	<module>vigalyn-cloud-framework</module>
+    	<module>vigalyn-cloud-gateway</module>
+    	<module>vigalyn-cloud-monitor</module>
+    	 <module>vigalyn-cloud-zipkin</module>
+    	 <module>vigalyn-cloud-devtools</module>
   </modules>
-
+  <dependencies>
+          <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+        <dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+  </dependencies>
 </project>
