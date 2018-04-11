@@ -17,5 +17,6 @@
 		 <module>vigalyn-cloud-service-dict</module>
 		 <module> vigalyn-cloud-service-guard</module>
 		 <module>vigalyn-cloud-service-vcc</module>
+    <module>vigalyn-cloud-service-elasticSearch</module>
   </modules>
 </project>
