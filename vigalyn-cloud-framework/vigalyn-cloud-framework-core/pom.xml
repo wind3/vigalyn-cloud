@@ -10,10 +10,16 @@
   <artifactId>vigalyn-cloud-framework-core</artifactId>
   <name>vigalyn-cloud-framework-core</name>
   <url>http://maven.apache.org</url>
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
+	
+	<properties>
+		<com.vigalyn.cloud.version>0.0.1-SNAPSHOT</com.vigalyn.cloud.version>
+	</properties>
+	
   <dependencies>
-   
+	   <dependency>
+	    	<groupId>com.vigalyn.cloud</groupId>
+	   		 <artifactId>vigalyn-cloud-framework-util</artifactId>
+	   		 <version>${com.vigalyn.cloud.version}</version>
+	   </dependency>
   </dependencies>
 </project>
