@@ -12,5 +12,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         ResultDTO<String> res = new ResultDTO<>("1231");
+        System.out.println( "Hello World!"  + res.toString());
     }
 }
