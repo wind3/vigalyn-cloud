@@ -5,3 +5,4 @@
 项目结构图：
 ![Alt text](https://github.com/wind3/vigalyn-cloud/blob/master/VIGALYN-CLOUD-STRUCT.jpg "项目结构图")
 
+微服务功能边界划分：
