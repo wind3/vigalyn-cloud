@@ -1,8 +1,9 @@
-# VIGALYN Spring Cloudå¾®æœåŠ¡é¡¹ç›®
-- ä½œè€…ï¼šæ›¾ç»´å˜‰
-- é‚®ç®±ï¼š49917747@qq.com
+# VIGALYN Spring CloudÎ¢·şÎñÏîÄ¿
+- ×÷Õß£ºÔøÎ¬¼Î
+- ÓÊÏä£º49917747@qq.com
 
-é¡¹ç›®ç»“æ„å›¾ï¼š
-![Alt text](https://github.com/wind3/vigalyn-cloud/blob/master/VIGALYN-CLOUD-STRUCT.jpg "é¡¹ç›®ç»“æ„å›¾")
+ÏîÄ¿½á¹¹Í¼£º
+![Alt text](https://github.com/wind3/vigalyn-cloud/blob/master/VIGALYN-CLOUD-STRUCT.jpg "ÏîÄ¿½á¹¹Í¼")
 
-å¾®æœåŠ¡åŠŸèƒ½è¾¹ç•Œåˆ’åˆ†ï¼š
+Î¢·şÎñ¹¦±ß½ç»®·Ö£º
+ÓÃ»§ÖĞĞÄ£º
